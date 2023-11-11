@@ -1,0 +1,51 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "JACOB HAWKINS"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "Services"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "to": "blog",
+      "text": "Blog"
+    },
+    {
+      "to": "skills",
+      "text": "Skills"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "#",
+      "text": "TW."
+    },
+    {
+      "to": "#",
+      "text": "IN."
+    },
+    {
+      "to": "#",
+      "text": "FB."
+    }
+  ]
+}
