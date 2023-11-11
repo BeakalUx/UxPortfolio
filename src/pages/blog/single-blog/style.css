@@ -22,7 +22,7 @@
 }
 
 .single-blog .meta li a {
-  color: #f44647;
+  color: #0069d1;
 }
 
 .single-blog .meta li a:hover {
@@ -52,7 +52,7 @@
 
 .single-blog .content-670 blockquote {
   float: right;
-  background: #f44647;
+  background: #0069d1;
   color: #fff;
   font-weight: 700;
   font-size: 18px;
@@ -96,7 +96,7 @@
 }
 
 .soc-list li a:hover {
-  color: #f44647;
+  color: #0069d1;
 }
 
 /* Responsive */

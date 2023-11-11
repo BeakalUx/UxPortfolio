@@ -19,6 +19,7 @@ function Home() {
       <Blog />
       <Skills />
       <Contact />
+    
     </>
   );
 }

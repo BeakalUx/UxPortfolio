@@ -3,7 +3,7 @@
 ====================================== */
 
 .skills-history {
-  background-color: #f44647;
+  background-color: #0069d1;
   color: #fff;
   margin-top: 41px;
   padding: 63px 60px 62px 94px;
@@ -91,7 +91,7 @@
 .skills-progress .skill-fill {
   width: 10%;
   height: 10px;
-  background-color: #f44647;
+  background-color: #0069d1;
   transition: width 0.7s;
 }
 
