@@ -16,43 +16,21 @@
       }
     },
     {
-      "gridSize": "p-one-half",
-      "action": {
-        "type": "item",
-        "number": 2
-      },
-      "description": {
-        "text": "Stairways",
-        "caption": "Text"
-      }
-    },
-    {
-      "gridSize": "p-one-half",
-      "action": {
-        "type": "item",
-        "number": 3
-      },
-      "description": {
-        "text": "Nature",
-        "caption": "Text"
-      }
-    },
-    {
-      "gridSize": "p-one-half",
+      "gridSize": "p-one",
       "action": {
         "type": "popup",
         "number": 1
       },
       "description": {
-        "text": "Architecture",
-        "caption": "Video"
+        "text": "Art",
+        "caption": "Image"
       }
     },
     {
       "gridSize": "p-one",
       "action": {
         "type": "popup",
-        "number": 2
+        "number":3
       },
       "description": {
         "text": "Art",

@@ -16,7 +16,6 @@ function Home() {
       <Services />
       <About />
       <Portfolio />
-      <Blog />
       <Skills />
       <Contact />
     
