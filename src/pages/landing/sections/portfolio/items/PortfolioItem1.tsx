@@ -38,7 +38,7 @@ function PortfolioItem1() {
           </Swiper>
         </div>
 
-        <h2 className="title">ART OF CAMERA</h2>
+        <h2 className="title">Body Scent</h2>
 
         <p className="section-des">
           Two ghostly white figures in coveralls and helmets are softly dancing.

@@ -11,25 +11,25 @@
         "number": 1
       },
       "description": {
-        "text": "Sneakers",
-        "caption": "Text"
+        "text": "BodyScent",
+        "caption": "Mobile app for a small business that sells oil fregnance "
       }
     },
     {
       "gridSize": "p-one",
       "action": {
-        "type": "popup",
-        "number": 1
+        "type": "item",
+        "number": 2
       },
       "description": {
-        "text": "Art",
+        "text": "WeWorked ( Redesign )",
         "caption": "Image"
       }
     },
     {
       "gridSize": "p-one",
       "action": {
-        "type": "popup",
+        "type": "item",
         "number":3
       },
       "description": {
