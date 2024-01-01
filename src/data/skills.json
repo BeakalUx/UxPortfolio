@@ -1,25 +1,25 @@
 {
   "title": "Experience",
 
-  "description": "Lorem ipsum dolor sit amet consectetu adipiscing elit viverra tristique placerat",
-  "paragraphe": "Viverra tristique placerat in sat massa consectetur quisque. Nunc aces fames lectus in libero aliquet ertare feraso est lorem nunc dolor sit amet settera aces volutpat in voltare lupar est phasellus. Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu.",
+  "description": "Crafting User-Centric Digital Experiences with Cutting-Edge Design Tools Across Diverse Industries.",
+  "paragraphe": "As a dynamic and innovative UX/UI and Product Designer, I bring a rich tapestry of experience spanning several years across multiple esteemed organizations. My journey, rooted in graphic design and evolving into specialized UX/UI roles, showcases a deep commitment to enhancing user experiences through thoughtful design and cutting-edge technology. Leveraging a diverse skill set and proficiency in tools like Sketch, Figma, Adobe XD, Photoshop, and Illustrator, I have successfully bridged the gap between user needs and business objectives, delivering engaging and accessible digital solutions for both web and mobile platforms. My career is marked by a collaborative approach, blending creativity with technical acumen to drive design innovations in varied environments from advertising agencies to tech solutions firms.",
 
   "skillsHistory": [
     {
-      "title": "2016",
-      "description": "**2015 - 2016** placerat in massa consectetur quisque. Nunc ac fames lectus in libero aliquet est setera nunc."
-    },
-    {
-      "title": "2017",
-      "description": "**2016 - 2017** Turpis metus sit diam purus leo in variusquam. Nunc amet tristique volutpat adipiscing vulputate phasellus. Eget enim aliquam euismod mauris in vitae viverra blandit lectus diam feugiat."
-    },
-    {
-      "title": "2019",
-      "description": "**2020 - 2021** Nunc amet tristique volutpat adipiscing vulputate phasellus. Eget enim aliquam euismod."
-    },
-    {
       "title": "2023",
-      "description": "**2022 - 2026** Eget enim aliquam euismod mauris in vitae viverra blandit lectus faucibus diam consequat maecenas turpis metus sit diam purus leo in varius."
+      "description": "**Blen Corp (May 2023 - Present) : ** As a UX/UI Designer at Blen Corp in Washington, DC, my primary responsibility involved collaborating with various teams to develop and improve user interfaces for web and mobile applications. Key software tools used included Sketch, Figma, Adobe XD, Photoshop, and Illustrator."
+    },
+    {
+      "title": "2021",
+      "description": "**Blen Corp (May 2021 - Jan 2023) : ** In my role as a UX Designer at Blen Corp, Washington, DC, I focused on the entire design process from research to high-fidelity design, mainly for B2B and B2C products. I extensively used Sketch, Figma, Adobe XD, Photoshop, and Illustrator in my design work."
+    },
+    {
+      "title": "2018",
+      "description": "**Adey Tech Solutions (Feb 2018 – Apr 2021) : ** As a Product Designer at Adey Tech Solutions in Beltsville, MD, my main tasks included designing user experiences and interfaces, particularly for mobile and web apps, using Adobe XD, along with conducting user research and developing various design prototypes."
+    },
+    {
+      "title": "2014",
+      "description": "**Atref Advertising (Apr 2014 – 2017) : ** Working as a Graphic Designer at Atref Advertising in Washington, DC, I specialized in translating client needs into design strategies, utilizing visual elements like logos, colors, and typography. My toolkit primarily included design software like Adobe Photoshop and Illustrator."
     }
   ],
 

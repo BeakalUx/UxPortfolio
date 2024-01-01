@@ -54,7 +54,7 @@ function Skills() {
         ))}
       </ul>
 
-      <ul className="skills-progress">
+      {/* <ul className="skills-progress">
         {skillsData.skillsProgress.map((prog, i) => (
           <li key={'prog' + i}>
             <span className="name">{prog.name}</span>
@@ -67,7 +67,7 @@ function Skills() {
             </div>
           </li>
         ))}
-      </ul>
+      </ul> */}
     </section>
   );
 }

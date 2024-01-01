@@ -17,12 +17,12 @@ body {
   min-width: 320px;
   position: relative;
   overflow-x: hidden;
-  background: linear-gradient(to right, #aacef2 0%, #aacef2 60%, white 60%);
+  background: linear-gradient(to right, #dbdbdb 0%, #dbdbdb 60%, white 60%);
   background-position: center;
 }
 @media (max-width: 1020px) {
   body {
-    background: #aacef2;
+    background: #dbdbdb;
   }
 }
 
@@ -37,12 +37,12 @@ a {
 }
 
 a:hover {
-  color: #0069d1;
+  color: #3e3e3e;
 }
 
 .section a {
   font-weight: 700;
-  color: #0069d1;
+  color: #3e3e3e;
 }
 
 .section a:hover {
@@ -82,7 +82,7 @@ img.block-right {
 .page-wrapper {
   pointer-events: auto;
   width: 100%;
-  background-color: #aacef2;
+  background-color: #dbdbdb;
   max-width: 800px;
 }
 

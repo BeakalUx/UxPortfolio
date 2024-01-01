@@ -1,7 +1,7 @@
 .page-wrapper {
   pointer-events: auto;
   width: 100%;
-  background-color: #aacef2;
+  background-color: #dbdbdb;
   max-width: 800px;
 }
 .page-wrapper > section:first-of-type {

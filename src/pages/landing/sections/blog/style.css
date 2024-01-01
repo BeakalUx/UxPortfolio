@@ -29,7 +29,7 @@
 }
 
 .home-blog-list li a:hover {
-  color: #0069d1;
+  color: #3e3e3e;
 }
 
 .home-blog-list li .blog-list-info {
@@ -42,7 +42,7 @@
 }
 
 .home-blog-list li .blog-list-info .category {
-  color: #0069d1;
+  color: #3e3e3e;
   margin-top: 6px;
 }
 
