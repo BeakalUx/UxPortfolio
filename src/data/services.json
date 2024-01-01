@@ -1,9 +1,8 @@
 {
-  "title": "SERVICES",
-  "description": "Lorem ipsum dolor sit amet consectetu adipiscing elit viverra tristique placerat",
+  "title": "SKILLS",
+  "description": "Designing intuitive experiences and elegant interfaces, where form meets function.",
   "paragraphes": [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique placerat in sat massa consectetur quisque. Nunc aces fames lectus in libero aliquet ertare feraso est lorem nunc dolor sit amet settera aces volutpat in voltare lupar est phasellus.",
-    "Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae faucibus diam consequat aecenas. Turpis metus sit diam purus leo in varius ac quam. Nunc amet tristique set volutpat [estars adipiscing](#) vulputate est phasellus. Volutpat faucibus per praesent aced nuncare voltare per settera lorem ipsum dolor."
+    "As a photographer for over a decade, I've developed a keen eye for detail and a deep understanding of client needs, skills that naturally led me to the world of user experience design. This transition expanded my expertise, allowing me to create digital interfaces that are not just visually appealing but intuitively user-centric. My experiences, both as a freelancer and as part of diverse teams, have honed my ability to merge aesthetics with functionality, ensuring every design enhances user satisfaction and engagement. My portfolio is a testament to this journey, reflecting a unique blend of artistic creativity, technical skill, and a profound grasp of user needs."
   ],
   "servicesLinks": [
     {
@@ -18,26 +17,26 @@
   "servicesBoxes": [
     {
       "imageAltText": "serv icon",
-      "servTitle": "DESIGN",
-      "servDesc": "A full stack allaround designer that may or may not include aguide for specific createive"
+      "servTitle": "USER RESEARCH",
+      "servDesc": "Gathering and analyzing user data to understand behavior and needs, ensuring designs are user-centered and effective."
     },
     {
       "imageAltText": "serv icon",
 
-      "servTitle": "DEVELOP",
-      "servDesc": "Tellus pharetra erat tristique erat donec dignissim etiam sed malesuada enim sodales"
+      "servTitle": "INTERACTION",
+      "servDesc": "Designing intuitive interfaces focused on user interaction, ensuring a seamless and efficient journey."
     },
     {
       "imageAltText": "serv icon",
 
-      "servTitle": "WRITE",
-      "servDesc": "A full stack allaround designer that may or may not include a guide for specific createive"
+      "servTitle": "VISUAL DESIGN",
+      "servDesc": "Using aesthetic principles to create visually appealing designs that enhance user experience and convey brand identity."
     },
     {
       "imageAltText": "serv icon",
 
-      "servTitle": "PROMOTE",
-      "servDesc": "Tellus pharetra erat tristique erat donec dignissim etiam sed malesuada enim sodales"
+      "servTitle": "PROTOTYPING",
+      "servDesc": "Utilizing aesthetics to create visually appealing designs that enhance user experience and convey brand identity."
     }
   ]
 }
