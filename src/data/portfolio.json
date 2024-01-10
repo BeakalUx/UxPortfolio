@@ -2,7 +2,12 @@
   "title": "PORTFOLIO",
 
   "description": "Viverra tristique placerat massa est consectetur quisque nu fames lorem ipsum dolor sit amet consectetu.",
-
+  "servicesLinks": [
+    {
+      "to": "https://www.figma.com/proto/qJsM9PYpl8hU2VmHLz1LlC/BodyScent?type=design&node-id=452-27565&t=0KZVnITwnCtWJGDp-0&scaling=min-zoom&page-id=147%3A2116&starting-point-node-id=452%3A27565",
+      "text": "SEE PROTOTYPE"
+    }
+  ],
   "portfolioItems": [
     {
       "gridSize": "p-one",
