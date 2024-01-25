@@ -26,11 +26,11 @@ function About() {
           }}></p>
       </div>
 
-      <img
+      {/* <img
         className="about-img block-right"
         src={aboutImage}
         alt="about image"
-      />
+      /> */}
 
       <ul className="about-info">
         {aboutData.aboutInfo.map((info, i: number) => (

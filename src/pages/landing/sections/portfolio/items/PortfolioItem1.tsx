@@ -7,9 +7,10 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import servicesData from '../../../../../data/portfolio.json';
 // Images
-import item1 from '../../../../../assets/images//portfolio/items/bodsc.png';
-import item2 from '../../../../../assets/images//portfolio/items/item2.jpg';
-import item3 from '../../../../../assets/images//portfolio/items/item3.jpg';
+import item1 from '../../../../../assets/images//portfolio/items/bodsc.jpg';
+import item2 from '../../../../../assets/images//portfolio/items/sketch.jpg';
+import item3 from '../../../../../assets/images//portfolio/items/sketch2.jpg';
+import item4 from '../../../../../assets/images//portfolio/items/proto_wiring.jpg';
 
 // Styles
 import './style.css';
@@ -26,6 +27,7 @@ function PortfolioItem1() {
             loop={true}
             modules={[Pagination]}
             className="portfolio-slider">
+           
             <SwiperSlide>
               <img src={item1} alt="portfolio item 1" />
             </SwiperSlide>
@@ -34,6 +36,9 @@ function PortfolioItem1() {
             </SwiperSlide>
             <SwiperSlide>
               <img src={item3} alt="portfolio item 1" />
+            </SwiperSlide>
+ <SwiperSlide>
+              <img src={item4} alt="portfolio item 1" />
             </SwiperSlide>
           </Swiper>
         </div>

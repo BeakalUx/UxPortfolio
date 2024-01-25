@@ -111,11 +111,11 @@ function Contact() {
           }}></p>
       </div>
 
-      <a
+      {/* <a
         href="https://www.google.com/maps/place/Central+Park/@40.7828647,-73.9653551,15z/data=!4m5!3m4!1s0x0:0xb9df1f7387a94119!8m2!3d40.7828647!4d-73.9653551"
         target="_blank">
         <img className="block-right" src={mapImg} alt="map image" />
-      </a>
+      </a> */}
 
       <div className="content-670">
         <div className="contact-form">
